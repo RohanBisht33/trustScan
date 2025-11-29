@@ -89,7 +89,6 @@ TrustScan provides:
 
 ## Revenue Model (Future)
 
-- Free for all users.
 - Premium API for colleges and HR teams.
 - Resume verification service.
 - Ed-tech integrations.
@@ -120,3 +119,4 @@ TrustScan provides:
 ## License
 
 MIT License.
+
